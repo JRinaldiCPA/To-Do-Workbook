@@ -1,4 +1,5 @@
 To Do Excel
+
 My system entails a few Excel workbooks, the main one is my To Do. This is where I keep track of my Projects / Tasks / Waiting, document content for my Weekly GTD Review (ex. Improvements), and capture stray thoughts and notes from meetings. Macros are used to refresh the views and keep everything tidy.  My To Do lets me store all of this in something that isn’t my own head, and is meant to be a comprehensive inventory of all of my incomplete work.
 
 Note: Remember, my to-do list is a working document, not some showy testament to organization that quietly gathers dust because I’m off doing real work that's not written down anywhere.
